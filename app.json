@@ -1,0 +1,10 @@
+{
+  "pages":[
+    "pages/index/index"
+  ],
+  "window":{
+    "navigationBarBackgroundColor": "#ff6666",
+    "navigationBarTitleText": "作业",
+    "navigationBarTextStyle":"white"
+  }
+}
